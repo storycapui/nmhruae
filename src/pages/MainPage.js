@@ -286,7 +286,7 @@ const MainPage = () => {
         <section className="closed-projects-section">
           <div className="closed-projects-container">
             <h3 className="recent-projects-heading">Staffing Recent Closed Projects</h3>
-            <h1 className="main-project-heading">We Choose a NM</h1>
+            <h1 className="main-project-heading">We Choose NM</h1>
             <img
               src="/images/ss.png"
               alt="Closed Projects"
